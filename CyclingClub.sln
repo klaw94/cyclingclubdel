@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclingClub", "CyclingClub\CyclingClub.csproj", "{D65E80C9-43EF-4B46-B5A1-6BD478856EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidationAPI", "FieldValidationAPI\FieldValidationAPI.csproj", "{5C1A6220-FAFE-4764-B873-BE1C2082F54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65E80C9-43EF-4B46-B5A1-6BD478856EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65E80C9-43EF-4B46-B5A1-6BD478856EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65E80C9-43EF-4B46-B5A1-6BD478856EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65E80C9-43EF-4B46-B5A1-6BD478856EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1A6220-FAFE-4764-B873-BE1C2082F54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1A6220-FAFE-4764-B873-BE1C2082F54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1A6220-FAFE-4764-B873-BE1C2082F54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1A6220-FAFE-4764-B873-BE1C2082F54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29C6C95-03D6-46FB-A523-D913EA79DBA1}
+	EndGlobalSection
+EndGlobal

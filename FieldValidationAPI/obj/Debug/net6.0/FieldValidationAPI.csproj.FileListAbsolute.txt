@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\bin\Debug\net6.0\FieldValidationAPI.deps.json
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\bin\Debug\net6.0\FieldValidationAPI.dll
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\bin\Debug\net6.0\FieldValidationAPI.pdb
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.dll
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\refint\FieldValidationAPI.dll
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\FieldValidationAPI.pdb
+C:\Users\Gebruiker\source\repos\CyclingClub\FieldValidationAPI\obj\Debug\net6.0\ref\FieldValidationAPI.dll
